@@ -10,7 +10,7 @@ A simple interactive map application inspired by Google Maps, allowing users to 
 
 ## Demo
 
-[Live Demo](#) <!-- Replace with your actual demo link once available -->
+[Live Demo](#) <!--https://rituraj27.github.io/Simple-Map/-->
 
 ## Installation
 
